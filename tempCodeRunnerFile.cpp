@@ -1,0 +1,1 @@
+cout << "\t\t\t" << "Record Deleted";
